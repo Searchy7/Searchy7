@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Searchy7
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Cyber security 
+- 🌱 I’m currently computer network basics
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me +237673489435
 
